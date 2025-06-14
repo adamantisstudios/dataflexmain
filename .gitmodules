@@ -1,0 +1,6 @@
+[submodule "dataflexagent"]
+	path = dataflexagent
+	url = https://github.com/dataflexghana-code/dataflexagent.git
+[submodule "dataflexmain"]
+	path = dataflexmain
+	url = https://github.com/dataflexghana-code/dataflexmain.git
